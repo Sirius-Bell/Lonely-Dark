@@ -9,11 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-hm
 -->
-
-- 🔭 I’m currently working on timetable project for my school
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: vlad10game@gmail.com
 
 ![Metrics](https://github.com/Lonely-Dark/Lonely-Dark/blob/main/github-metrics.svg)
