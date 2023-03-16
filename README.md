@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonely-dark" alt="lonely-dark" /></a> </p>
 
-- 🔭 I’m currently working on [helperclass-pack](https://github.com/Lonely-Dark/helperclass-pack.git)
+- 🔭 I’m currently working on [Voicevox-synthesis](https://github.com/Lonely-Dark/Voicevox-synthesis.git)
 
 - 🌱 I’m currently learning **Asyncio, threading, OOP**
 
