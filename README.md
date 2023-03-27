@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonely-dark" alt="lonely-dark" /></a> </p>
 
-- 🔭 I’m currently working on [Voicevox-synthesis](https://github.com/Lonely-Dark/Voicevox-synthesis.git)
+- 🔭 I’m currently working on [Voicevox-synthesis](https://github.com/Lonely-Dark/Voicevox-synthesis.git), [TimeTableVK](https://github.com/Lonely-Dark/TimeTableVK)
 
 - 🌱 I’m currently learning **Asyncio, threading, OOP**
 
-- 👯 I’m looking to collaborate on **Raspisanie_bot**
+- 👯 I’m looking to collaborate on **TimeTableVK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lonely-Dark](https://github.com/Lonely-Dark)
 
